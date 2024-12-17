@@ -1,0 +1,5 @@
+body {
+    width: 2300px;
+    height: 1045px;
+    background: #474747, linear-gradient(163deg, rgba(173, 22, 77, 0.33) 0%, rgba(20, 13, 116, 0.33) 100%), url("path_to_image");
+}
